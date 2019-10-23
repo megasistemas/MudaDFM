@@ -1,5 +1,5 @@
 # MudaDFM
-Ferramente de código aberto para apoio nas mudanças de classes e conversões de componentes Delphi
+Ferramenta para apoio nas mudanças de classes e conversões de componentes Delphi
 
 Olá pessoal.
 
