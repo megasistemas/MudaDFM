@@ -11,7 +11,7 @@ Abaixo, segue uma lista de dicas que podem te auxiliar na migração do Delphi e
 
 Quanto a ferramenta "MudaDFM", a mesma está comitada numa versão mais light sem muitas das implementações feitas para a Mega, mas mantendo os conteúdos e rotinas das principais funcionalidades que nos auxiliaram nas migrações e inovações do nosso ERP.
 
-Uma documentação do uso da ferramenta pode ser encontrada em https://github.com/megasistemas/MudaDFM/wiki/Passo-a-Passo-da-Ferramenta-MudaDFM
+Um "Passo a Passo" da ferramenta pode ser encontrado em https://github.com/megasistemas/MudaDFM/wiki/Passo-a-Passo-da-Ferramenta-MudaDFM
 
 Agradecemos muito o apoio de vocês.
 
